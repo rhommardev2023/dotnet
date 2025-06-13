@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace dotnet.classes
+namespace dotnet.classes // namespace para organizar o codigo   
 {
-    public class Pessoa
+    public class Pessoa // classe Pessoa que representa uma pessoa
     {
         //atributos se inica con prop 
         public string Nome { get; set; } 
